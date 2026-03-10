@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sesuai1</name>
+   <tag></tag>
+   <elementGuidId>a4851385-284a-470f-aad1-0c6de8b4d53c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b3-b3-b6-$b2']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59be2017-4c36-4db1-ba40-e8efbc03dafa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card display-flex flex-direction-column gap-base justify-content-center align-items-center card-counter</value>
+      <webElementGuid>36fe7a78-38d5-4f16-8171-83eb7f61df20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sesuai1</value>
+      <webElementGuid>d1e61a97-07ce-4cd5-9193-09b45cbcd4ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b3-b6-$b2&quot;)/div[@class=&quot;card display-flex flex-direction-column gap-base justify-content-center align-items-center card-counter&quot;]</value>
+      <webElementGuid>8e023bee-a466-41d9-b916-c094842e3329</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b3-b6-$b2']/div</value>
+      <webElementGuid>96bcc9b9-7e18-4da8-adb4-26acd7c9ec86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Transaksi'])[1]/following::div[3]</value>
+      <webElementGuid>ba9f720b-ce0e-486a-9239-d654dc3c38b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OUTSTANDING PETTY CASH'])[1]/following::div[15]</value>
+      <webElementGuid>67bf35f4-68d6-4a9d-b52f-ed3c119de5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Sesuai'])[1]/preceding::div[3]</value>
+      <webElementGuid>86169df2-d8d9-4853-870e-27f8b852676d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>663fbe78-9d5e-4486-9a4f-06287b84af17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sesuai1' or . = 'Sesuai1')]</value>
+      <webElementGuid>3a6c0ed1-29c5-41cf-b05b-e21dae705c34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

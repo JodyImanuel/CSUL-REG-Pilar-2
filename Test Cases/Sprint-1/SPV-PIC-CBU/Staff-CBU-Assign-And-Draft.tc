@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Staff CBU Draft</description>
+   <name>Staff-CBU-Assign-And-Draft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5c4d90a-8e3a-419c-9ee7-fcb5304467d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a32db23-d51f-4234-87b6-896f35c4a049</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>97bf2eba-381b-45ab-9dd1-513e6124eefc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4a48dae-fe50-4c20-8c3c-13ac5a8cb7b0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum1.pdf'</defaultValue>
+      <description></description>
+      <id>5a32db23-d51f-4234-87b6-896f35c4a049</id>
+      <masked>false</masked>
+      <name>Lorem1</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\loremipsum2.pdf'</defaultValue>
+      <description></description>
+      <id>97bf2eba-381b-45ab-9dd1-513e6124eefc</id>
+      <masked>false</masked>
+      <name>Lorem2</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\Lenovo T490\\Downloads\\Tester File\\3mb.pdf'</defaultValue>
+      <description></description>
+      <id>f4a48dae-fe50-4c20-8c3c-13ac5a8cb7b0</id>
+      <masked>false</masked>
+      <name>File3mb</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Risk Control Unit Application</name>
+   <tag></tag>
+   <elementGuidId>ac7a9253-07a4-4efa-8599-40102682a2f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-Content']/div/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.break-word</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>73d1c994-0906-44ce-be96-19749720767e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>break-word</value>
+      <webElementGuid>5ba11c7a-8f3d-42a1-8f0d-58b63e66b7f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Risk Control Unit Application</value>
+      <webElementGuid>984df119-c7ba-42b9-a974-1b317f332446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-Content&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/div[1]/a[1]/div[1]/span[@class=&quot;break-word&quot;]</value>
+      <webElementGuid>e5473cd2-75a0-4ad7-b82a-e6657b2eacd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-Content']/div/div/a/div/span</value>
+      <webElementGuid>98aaff8e-bc20-4dce-aa25-7a2710eab0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select an application that you wanted to access'])[1]/following::span[1]</value>
+      <webElementGuid>9521cc1b-4dca-42d4-b132-eea2f07006b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ops Risk CBU Staff'])[1]/following::span[1]</value>
+      <webElementGuid>fa96d634-5920-42ff-a460-56375179b8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::span[2]</value>
+      <webElementGuid>75ea6727-df4b-499a-a35f-184fd5577f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Development CSULFinance'])[1]/preceding::span[3]</value>
+      <webElementGuid>ba799d56-05a0-4c00-ac7f-5d2c63426055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Risk Control Unit Application']/parent::*</value>
+      <webElementGuid>bd458965-7afd-4db4-b58a-dc9df969e15c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>7a933a09-d625-401c-a32a-ed029c7699fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Risk Control Unit Application' or . = 'Risk Control Unit Application')]</value>
+      <webElementGuid>5c309c75-9935-4cab-9432-c98eb0552059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

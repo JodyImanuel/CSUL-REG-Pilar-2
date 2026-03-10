@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select BranchBANJARMASINJAKARTA 1 SY_b47ff5</name>
+   <tag></tag>
+   <elementGuidId>1d6cf537-55fb-44ac-a3d6-e78df3b5e1db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div[2]/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b1-b1-Branch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1ee1975d-b274-4f8a-b465-730bccef0ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-display dropdown</value>
+      <webElementGuid>431b3205-7787-4527-8f5d-249700a75b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>07c3fcfb-3e89-4fe1-9468-aaa2e35b416f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b3-b1-b1-Branch</value>
+      <webElementGuid>cbf707cf-a316-4991-ac4e-c8804dd7c8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Branch&#xd;
+BANJARMASINJAKARTA 1 SYARIAHPONTIANAKMAKASARBALIKPAPANMANADOSAMARINDASEMARANGSURABAYAJAKARTA GROUPJAKARTA 1JAKARTA 2JAKARTA 3PALEMBANGJAMBIPEKANBARU</value>
+      <webElementGuid>8dedbd0e-4555-4458-8f41-956404224a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b1-b1-Branch&quot;)</value>
+      <webElementGuid>a1356a44-1ca9-4e74-9d78-4371ab9992c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='b3-b1-b1-Branch']</value>
+      <webElementGuid>d1e1a1cc-e834-454c-81ea-0cf8c1e3cfca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b1-b1-Branch-container']/select</value>
+      <webElementGuid>2c1eb212-1e63-4dd0-9da9-8a9acd8e0427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::select[1]</value>
+      <webElementGuid>52378b43-80e1-430c-a263-cc3a9133a976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/following::select[1]</value>
+      <webElementGuid>4b5affde-2731-4b84-8fe4-ad1ad8a455fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>f99e3be4-daa7-41a5-9a25-629f9b72bc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::select[1]</value>
+      <webElementGuid>9ded89b9-cd72-4baa-b15f-18f4c9dc1966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1be43611-1b79-42c5-9487-e83be4c53041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'b3-b1-b1-Branch' and (text() = 'Select Branch&#xd;
+BANJARMASINJAKARTA 1 SYARIAHPONTIANAKMAKASARBALIKPAPANMANADOSAMARINDASEMARANGSURABAYAJAKARTA GROUPJAKARTA 1JAKARTA 2JAKARTA 3PALEMBANGJAMBIPEKANBARU' or . = 'Select Branch&#xd;
+BANJARMASINJAKARTA 1 SYARIAHPONTIANAKMAKASARBALIKPAPANMANADOSAMARINDASEMARANGSURABAYAJAKARTA GROUPJAKARTA 1JAKARTA 2JAKARTA 3PALEMBANGJAMBIPEKANBARU')]</value>
+      <webElementGuid>ac025ee4-f037-4f22-b4e7-f838e4f8d44a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

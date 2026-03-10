@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>SPV melakukan assign tindak lanjut kepada PIC</description>
+   <name>SPV-CBU-Assign-PIC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d0edfaa-b111-49fb-be71-9fd0104b3ff1</testCaseGuid>
+</TestCaseEntity>

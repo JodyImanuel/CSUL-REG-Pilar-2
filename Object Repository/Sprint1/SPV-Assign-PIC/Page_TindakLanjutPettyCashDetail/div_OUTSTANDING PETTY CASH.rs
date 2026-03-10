@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OUTSTANDING PETTY CASH</name>
+   <tag></tag>
+   <elementGuidId>70458b11-b225-41d1-bdd8-409866ed1b2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[3]/div/section/header/div[1]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b3-b2-b4-Title > div.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c7a71281-a363-4ab2-af38-6dbd2dc2de26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bold</value>
+      <webElementGuid>44fb38e0-5892-486f-b8ea-786b114c5317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OUTSTANDING PETTY CASH</value>
+      <webElementGuid>3bfd0a54-c911-483f-ac3f-a0be5ca5b915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b3-b2-b4-Title&quot;)/div[@class=&quot;bold&quot;]</value>
+      <webElementGuid>f3ba749b-84dd-42b2-9055-dd82b9b28991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b3-b2-b4-Title']/div</value>
+      <webElementGuid>8b57dad1-e8e8-4ef9-8620-d16b764a1735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PETTY CASH REIMBURSED'])[1]/following::div[3]</value>
+      <webElementGuid>0e724023-15cc-4172-9fb4-552802b0fc62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/following::div[9]</value>
+      <webElementGuid>9a24e900-ef45-4f52-9922-f618941e5d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Allocation'])[1]/preceding::div[2]</value>
+      <webElementGuid>185b5d4e-f230-41b5-9394-3c909ab1f206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Petty Cash'])[1]/preceding::div[2]</value>
+      <webElementGuid>ad54c1f0-580b-4538-9e22-e7a158335963</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='OUTSTANDING PETTY CASH']/parent::*</value>
+      <webElementGuid>fba1b2f0-e0d5-4ace-a9a8-d1fbdb968c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/div/div</value>
+      <webElementGuid>dd142e78-0f81-4431-90e4-34d881adf95f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OUTSTANDING PETTY CASH' or . = 'OUTSTANDING PETTY CASH')]</value>
+      <webElementGuid>84e56a06-7968-47d1-a6b5-8799463996bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

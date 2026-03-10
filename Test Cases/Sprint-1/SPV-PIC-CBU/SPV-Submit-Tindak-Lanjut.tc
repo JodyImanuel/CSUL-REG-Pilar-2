@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Setelah PIC melakukan tindak lanjut, SPV melakukan submit tindak lanjut</description>
+   <name>SPV-Submit-Tindak-Lanjut</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>171bfe77-35e2-4b21-adec-3b9dd6e4017a</testCaseGuid>
+</TestCaseEntity>

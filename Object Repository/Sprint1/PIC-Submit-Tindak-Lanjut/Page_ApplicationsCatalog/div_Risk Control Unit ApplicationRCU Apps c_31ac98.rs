@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Risk Control Unit ApplicationRCU Apps c_31ac98</name>
+   <tag></tag>
+   <elementGuidId>18b22c58-84d8-4559-843a-65e950005c92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div[3]/div/div/div[5]/a/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53058085-292b-4b89-8fe1-2fad1700c333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery</value>
+      <webElementGuid>29f54d65-87f4-4207-836c-4342edb966ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-Content&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/div[5]</value>
+      <webElementGuid>1a3408a3-97c4-4879-97ba-f7a35fbaad31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-Content']/div/div[5]</value>
+      <webElementGuid>0db8c0b2-8724-4f48-818a-140a96a02e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile - CSUL Helper'])[1]/following::div[3]</value>
+      <webElementGuid>0910631e-9eaf-4f26-a648-20cf88335717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Part of Mobile Marketing RBU for leads validation and survey verification.'])[1]/following::div[5]</value>
+      <webElementGuid>91ec2ddb-66c5-48bc-a526-4b3e2bbd33ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright © Designed &amp; Developed by'])[1]/preceding::div[4]</value>
+      <webElementGuid>d7227c85-f7a6-4bad-9813-2ec552a90615</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>27733a2d-a1c9-44ea-8a08-d2515bdc5919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery' or . = 'Risk Control Unit ApplicationRCU Apps covers 4 pillars of CSULFinance business.  Acquisition, Branch Operation, Asset Management, Collection &amp; Recovery')]</value>
+      <webElementGuid>d3d8205d-7d13-4117-981f-031bec2a6c56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

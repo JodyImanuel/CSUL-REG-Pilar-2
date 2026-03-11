@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Petty Cash</name>
+   <tag></tag>
+   <elementGuidId>e70f8567-125c-4801-a5b3-177b94340d77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div/div/div/aside/div/div/nav/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cef69ce3-738e-4465-837d-8177d23fbf69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>last-sub-menu-link OSFillParent</value>
+      <webElementGuid>b852b4a4-8d59-462b-af8f-57651766f5ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/CSUL_RCU_P2/PettyCash</value>
+      <webElementGuid>f987f359-d870-4418-b381-9b0a028dcc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Petty Cash</value>
+      <webElementGuid>9467201d-f9fb-429d-a78a-719179e55a9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-l1-16_5-b4-l1-29_5-$b2&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/a[@class=&quot;last-sub-menu-link OSFillParent&quot;]</value>
+      <webElementGuid>ced8ff8a-d022-438b-bd4a-04139a99b58c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-l1-16_5-b4-l1-29_5-$b2']/div/a</value>
+      <webElementGuid>740d4bba-13d8-4dd0-896c-a1d41924edbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operasional Cabang'])[1]/following::a[1]</value>
+      <webElementGuid>71ed185d-614f-4b92-bacc-249dbda86010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Showroom/Supplier'])[1]/following::a[1]</value>
+      <webElementGuid>97ebe02f-b265-44c4-bd55-0fe1961b70fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilitas &amp; Fasilitas Kantor'])[1]/preceding::a[1]</value>
+      <webElementGuid>f829cb5d-15f1-42aa-9506-9d318c66bf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/CSUL_RCU_P2/PettyCash')]</value>
+      <webElementGuid>0ffb2f8c-2802-4843-845b-abe6788e8a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>ea5fc2c5-db63-4d32-964c-0421655c44d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/CSUL_RCU_P2/PettyCash' and (text() = 'Petty Cash' or . = 'Petty Cash')]</value>
+      <webElementGuid>81269de6-a7cc-4b31-9e6c-4395d723a19e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

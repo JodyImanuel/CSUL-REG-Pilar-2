@@ -15,7 +15,7 @@
       <guid>f023a31f-4c62-4430-aff0-c64caafe9a2b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Sprint-1/Login-CBU/Login-PIC-CBU</testCaseId>
+      <testCaseId>Test Cases/Sprint-1/Login-CBU/Login-PIC</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

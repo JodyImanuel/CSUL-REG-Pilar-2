@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login-PIC-CBU</name>
+   <name>SPV-Assing-Staff</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>443c3797-8759-4fe8-969f-90b89cae33cb</testCaseGuid>
+   <testCaseGuid>2bc2e07a-39a1-4261-b902-2d99c4500a0d</testCaseGuid>
 </TestCaseEntity>

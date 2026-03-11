@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>User-RBU-Flow</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f32595b4-15f2-430d-afff-4e248e3d8e5b</testSuiteGuid>
+   <testCaseLink>
+      <guid>b8d82322-b2fa-41f4-908a-df51c23c25c5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/SPV-RBU-Create-Task</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78e55b98-e25f-4e3e-8f79-6466e73bec80</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/SPV-RBU-Assing-Staff</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60c90932-e66c-42ca-92be-93f5999e5d08</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/Staff-RBU-Assign-And-Draft</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a89acbd1-151b-454c-ae43-1fff07653b27</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>670f6130-0a23-4f2d-bfb9-c37c6feb8268</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c794ce8e-29ec-49ef-8b9f-7c689fb58dda</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/Staff-RBU-Assign-And-Submit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9bc1285a-2417-49b4-8524-73ffa43ae5dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3f119a15-266e-447b-9102-042c8a10358e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d82ac0fb-c3e3-412d-9abf-946f66e593ea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/SPV-RBU-Persetujuan</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cff436e6-f59e-494d-b1a3-e74eb3964c42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/SPV-RBU-Assign-PIC</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b2c4c73-7d43-48ea-a639-aec2245bf184</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/PIC-RBU-Submit-Tindak-Lanjut</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8c01b73c-88aa-4ce8-8a29-2de492b9a7c7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fedbaa6e-cefa-422c-9ae6-eb1a5758ede2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bdaf9cef-9255-4299-8f74-32f4de179366</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Sprint-1/RBU/SPV-Staff-PIC-RBU/SPV-RBU-Submit-Tindak-Lanjut</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

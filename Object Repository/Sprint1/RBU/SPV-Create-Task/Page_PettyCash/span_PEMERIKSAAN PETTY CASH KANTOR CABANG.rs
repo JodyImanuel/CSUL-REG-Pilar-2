@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>9e5bb335-5a7e-436e-85b6-bc3dea4881fd</webElementGuid>
+      <webElementGuid>321ac615-4874-4d43-b860-119720930149</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-blue-darker font-bold</value>
-      <webElementGuid>005cd49c-32b5-454b-a500-9b154508ba0e</webElementGuid>
+      <webElementGuid>c555e0a1-a3c8-4d31-be4c-db2b3818d275</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PEMERIKSAAN PETTY CASH KANTOR CABANG</value>
-      <webElementGuid>b334e218-9715-4809-b301-b4a5fe065ae9</webElementGuid>
+      <webElementGuid>bd72ecb2-b2ea-43cc-8484-8df382658fc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b1-Header&quot;)/span[@class=&quot;text-blue-darker font-bold&quot;]</value>
-      <webElementGuid>668fa081-0071-4a8e-a92f-0d6cf56ddb34</webElementGuid>
+      <webElementGuid>94547c08-4152-446d-9145-69ba99d62244</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b1-Header']/span</value>
-      <webElementGuid>b5d63010-b2a6-44e2-ab84-889a8ae6084a</webElementGuid>
+      <webElementGuid>daedc956-fdd6-4349-8834-5b8f6aaffcf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::span[1]</value>
-      <webElementGuid>26383bbb-36f3-43b0-8ffe-d11d17523de6</webElementGuid>
+      <webElementGuid>0720c18a-4198-4510-a720-49b41773609e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Unggah'])[1]/following::span[2]</value>
-      <webElementGuid>a2c282de-7741-4d8a-80b0-6c6fc4111bb3</webElementGuid>
+      <webElementGuid>26087995-4239-4de6-a6f5-91a7a3ee9f9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TAUFAN MINANGGA NASUTION'])[1]/preceding::span[3]</value>
-      <webElementGuid>3c4373be-02e3-494c-9aea-54e4ed42d436</webElementGuid>
+      <webElementGuid>7ab3b9cf-7fd1-419e-84bb-e5eac83e8dca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ops Risk RBU Supervisor'])[1]/preceding::span[4]</value>
-      <webElementGuid>0f2e29d3-5e48-469a-8d78-3defc9e09ea0</webElementGuid>
+      <webElementGuid>37619c04-0b1e-4cf6-976f-1f8ba4fd45ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PEMERIKSAAN PETTY CASH KANTOR CABANG']/parent::*</value>
-      <webElementGuid>3d25c4c0-88e3-438b-9638-4c639a6bdd12</webElementGuid>
+      <webElementGuid>03865c56-0a80-4292-a5d3-ded5dec38294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/span</value>
-      <webElementGuid>84617ac1-85f4-4a63-b2ea-f4ca016c60f5</webElementGuid>
+      <webElementGuid>bc903070-636e-4d16-bc4f-c9907c9a9d79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'PEMERIKSAAN PETTY CASH KANTOR CABANG' or . = 'PEMERIKSAAN PETTY CASH KANTOR CABANG')]</value>
-      <webElementGuid>5077f022-9b2e-433b-9bc4-939bf80583d6</webElementGuid>
+      <webElementGuid>13af0a44-3b65-45f1-a92b-89774666c90d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

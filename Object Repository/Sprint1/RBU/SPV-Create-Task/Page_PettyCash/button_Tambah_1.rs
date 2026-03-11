@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div/div[1]/div/div[2]/div[2]/div[3]/button</value>
+         <value>/html/body/div[2]/div/div/div/div/div/div/div[2]/form/div[6]/div/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c35d2f10-c306-4522-bb5d-5b2a28a6604d</webElementGuid>
+      <webElementGuid>22987bc6-d0f6-46da-8698-16c47ef1064c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-limegreen</value>
-      <webElementGuid>b227959e-36d5-496f-9a63-0282081f0533</webElementGuid>
+      <webElementGuid>99490552-6e8e-4002-83fb-48f4fb8202e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>68e09fbc-e6dc-4e6c-9050-eb934f8ac129</webElementGuid>
+      <webElementGuid>9786c316-d722-4e33-924f-6694c267684c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tambah</value>
-      <webElementGuid>6d8688cb-6085-4285-b5be-de2e5e7678de</webElementGuid>
+      <webElementGuid>9b1d03b1-646e-4f81-a6e4-84f6c10560b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b2-b4-b6-Button&quot;)/button[@class=&quot;btn btn-limegreen&quot;]</value>
-      <webElementGuid>c541452c-3c7b-4918-8e1f-121c35ba367a</webElementGuid>
+      <webElementGuid>4e03c210-35c3-4b41-81e0-132ab35863d5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>93f63f9d-f58f-410e-a54e-eecc7af46f77</webElementGuid>
+      <webElementGuid>af538744-1b2a-43f0-95f3-b5de67d0b8b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b2-b4-b6-Button']/button</value>
-      <webElementGuid>d3b163f6-468a-43e6-a09c-09ce784163e8</webElementGuid>
+      <webElementGuid>ee69a7c1-a605-40ba-b734-da8cd556565a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah'])[1]/following::button[1]</value>
-      <webElementGuid>80f81359-560a-4ed1-a4f0-4762d772fdb9</webElementGuid>
+      <webElementGuid>7426798f-744c-4f8b-8ba3-6144c9c7b9dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div/button</value>
-      <webElementGuid>9469b1b8-a85b-434a-86bc-3adf98655e92</webElementGuid>
+      <webElementGuid>57621b1a-5af1-4bcb-a221-83d462b3cdda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Tambah' or . = 'Tambah')]</value>
-      <webElementGuid>8dbf4c84-517f-4657-8010-093e0398c0bb</webElementGuid>
+      <webElementGuid>f93a6ad0-02fc-463e-81c7-e3ff89bf73ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>aa09f451-3e19-4006-81f7-e6e653a62abf</webElementGuid>
+      <webElementGuid>68e934ae-f7f3-4c19-bc7d-db0e137f2d1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>a9fd1ba5-0f96-4b78-a35b-78be373b6f6c</webElementGuid>
+      <webElementGuid>ee4b51ff-fd5e-41a5-986d-123b52ed6fed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d66f5221-a097-4173-8c90-d66f6643054d</webElementGuid>
+      <webElementGuid>0269895d-4812-4947-8b32-2de6504a9d7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b2-b4-Branch</value>
-      <webElementGuid>b1a85dd9-b8b6-4512-b7ae-5b09e385777e</webElementGuid>
+      <webElementGuid>64da47b5-1a14-4a66-a096-4e8ae7209fee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU</value>
-      <webElementGuid>944eebc6-ba0f-498d-b12d-0621453eb62a</webElementGuid>
+      <webElementGuid>b1d5ed4a-d065-4ba0-a1f7-63ed2d796d40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b2-b4-Branch&quot;)</value>
-      <webElementGuid>2a7b2d3b-79c8-4945-b199-14b09d13d65f</webElementGuid>
+      <webElementGuid>b8a5284a-e9ca-4b3b-be3f-abfd2672133d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b2-b4-Branch']</value>
-      <webElementGuid>40e43236-96dd-47f8-9884-8448cc23157b</webElementGuid>
+      <webElementGuid>2b227ac8-05e9-459e-b4cf-0d5a150c1aaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b2-b4-Branch-container']/select</value>
-      <webElementGuid>3f03d3e2-3507-4c13-a967-d46b8564bb57</webElementGuid>
+      <webElementGuid>14a38390-f20e-4afc-8d4c-4e7d1c963590</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch :'])[1]/following::select[1]</value>
-      <webElementGuid>32e13588-63ef-4244-b5cc-73be181f42f5</webElementGuid>
+      <webElementGuid>6c3aca7c-4398-4961-8cb6-e70f2dc3d36d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Claim :'])[1]/following::select[1]</value>
-      <webElementGuid>39c1a70f-cae4-4e3c-a39c-1d44a782d3a8</webElementGuid>
+      <webElementGuid>c530cc87-58c4-43e8-8f18-8ee12dbee614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Penugasan :'])[1]/preceding::select[1]</value>
-      <webElementGuid>85bc100f-df08-470c-918e-af5a59a8a945</webElementGuid>
+      <webElementGuid>d5efd87a-24af-4625-ad32-fb25720c8916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment'])[1]/preceding::select[2]</value>
-      <webElementGuid>65fd2d2e-0029-4354-b2ee-5f89ab2b1592</webElementGuid>
+      <webElementGuid>5db8032a-4f4a-490e-9a1f-5635c45f84b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/select</value>
-      <webElementGuid>6794fe9b-43bd-44fd-848d-81ebd4f176a1</webElementGuid>
+      <webElementGuid>fdd96907-7fc8-4ad4-bbf4-a6ee3b7e76dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b2-b4-Branch' and (text() = 'Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU' or . = 'Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU')]</value>
-      <webElementGuid>373ce8cc-d923-4ac6-9e86-a437dc6785aa</webElementGuid>
+      <webElementGuid>9413de2c-1655-4f5e-a06a-806280079d52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

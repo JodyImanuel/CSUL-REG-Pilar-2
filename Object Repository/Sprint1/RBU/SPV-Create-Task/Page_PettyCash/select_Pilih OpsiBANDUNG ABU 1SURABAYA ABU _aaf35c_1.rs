@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f75ff84c-27b6-42f0-80cd-c33c0d560338</webElementGuid>
+      <webElementGuid>5439c743-e3d5-4a2d-ae68-b185361e15bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>8f42d8d5-74fb-4942-bfcc-c81b4160ad56</webElementGuid>
+      <webElementGuid>d5a15e55-7f11-4201-a557-86bdbd5e5449</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>933f31e1-2f7b-4b95-8d5b-da01d4264f03</webElementGuid>
+      <webElementGuid>0939119e-6564-4126-9784-e0d603de598f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b2-b1-DropdownCabang</value>
-      <webElementGuid>8da8c2ff-ec8e-447c-b5a1-669c105a8024</webElementGuid>
+      <webElementGuid>1f369133-d7af-439a-a911-b89946931ea9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU</value>
-      <webElementGuid>9bfb1f4c-9000-42d4-81aa-2e9020522175</webElementGuid>
+      <webElementGuid>e42f94e2-3855-44f4-ab22-5fc7c731e76a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b2-b1-DropdownCabang&quot;)</value>
-      <webElementGuid>30a135b6-602f-43eb-9a9d-6353ae83c0a2</webElementGuid>
+      <webElementGuid>aa7447fc-2a5d-4562-8d17-88f32f89dd67</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b2-b1-DropdownCabang']</value>
-      <webElementGuid>3104b042-3955-4e51-ade9-1d15d7fedc16</webElementGuid>
+      <webElementGuid>6d2df89f-2c89-4e5a-9abe-155cb706a0cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b2-b1-DropdownCabang-container']/select</value>
-      <webElementGuid>0b43dcc6-fa54-4ee5-be91-20c809c28d97</webElementGuid>
+      <webElementGuid>33d6305a-1391-479e-ab6c-a3cd2b43b535</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::select[1]</value>
-      <webElementGuid>b9fc5cd1-7e23-4098-b2e8-2dfd8810d0c8</webElementGuid>
+      <webElementGuid>b228270d-4523-4214-825a-c19053b84d88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cabang'])[1]/following::select[1]</value>
-      <webElementGuid>c49ef9cf-13f5-4ce5-ae96-1f8762818ac2</webElementGuid>
+      <webElementGuid>99f6ef71-50a6-4bd5-828c-9f43cf0e2bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::select[1]</value>
-      <webElementGuid>560b2c9b-5da8-4c75-ba10-7fa2e90a38cf</webElementGuid>
+      <webElementGuid>8f275014-07a8-4e34-b7ad-7a11ac08860b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/preceding::select[1]</value>
-      <webElementGuid>ed9af69d-3889-473d-a894-d28db18d7937</webElementGuid>
+      <webElementGuid>17577321-2589-4caf-8b75-28759c971a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>2110a583-431d-40f8-a9ef-d94b48b756d4</webElementGuid>
+      <webElementGuid>6647ffc3-d7ac-4eb2-ab4d-9882035304aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b2-b1-DropdownCabang' and (text() = 'Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU' or . = 'Pilih OpsiBANDUNG ABU 1SURABAYA ABU 1SEMARANG RBU 1JAKARTA ABU 1JAKARTA ABU 2JAKARTA ABU 3PALEMBANG ABU 1JAKARTA ABU 4PEKANBARU ABU 1TANGERANG ABU 1BALI ABU 1JAMBI ABU 1NDF BANDUNGNDF KALIMALANGNDF ALAM SUTRANDF DENPASARNDF JOGLOMALANG RBU 1BANJARMASIN RBU 1KARAWANG RBU 1PONTIANAK RBUPALANGKARAYA RBUMAKASAR ABU 1SAMPIT RBUBATAM RBU')]</value>
-      <webElementGuid>edb3d8ea-6aac-4c65-8601-ae314bcce0ab</webElementGuid>
+      <webElementGuid>be8691aa-32bd-46e5-a8ac-929c65d26dfc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

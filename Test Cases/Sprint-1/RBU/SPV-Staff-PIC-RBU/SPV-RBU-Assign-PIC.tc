@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>SPV-Assing-Staff</name>
+   <name>SPV-RBU-Assign-PIC</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2bc2e07a-39a1-4261-b902-2d99c4500a0d</testCaseGuid>
+   <testCaseGuid>c332fc58-6b80-4a5c-bf2f-d20c771fc370</testCaseGuid>
 </TestCaseEntity>

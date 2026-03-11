@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>a8113bb7-b989-4860-9557-90e54910c03b</webElementGuid>
+      <webElementGuid>e8eb62d4-07ff-4ee3-8943-3abee1359eb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dropdown-display dropdown</value>
-      <webElementGuid>179ae0c2-1602-4c6a-ac75-f87cfd441aee</webElementGuid>
+      <webElementGuid>04511667-d940-45eb-b16e-6869624d78de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9883bf9c-e53a-41b5-af25-4513533a55bb</webElementGuid>
+      <webElementGuid>5cbc4c72-12ac-4abd-bcd4-18a9ba752a4f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>b3-b2-b1-DropdownStatus</value>
-      <webElementGuid>8aeedfa9-ab40-4bb2-a441-e0c11f9406d8</webElementGuid>
+      <webElementGuid>9fce55be-9240-4d93-b95d-9c72793935a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select StatusBaruPenugasanDalam ProsesMenunggu PersetujuanDisetujuiDikembalikanTidak Selesai</value>
-      <webElementGuid>51ed31f1-1b93-4355-90de-801d3930e7e3</webElementGuid>
+      <webElementGuid>b88a1277-cd38-4d6d-9b44-60d55732616f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;b3-b2-b1-DropdownStatus&quot;)</value>
-      <webElementGuid>21512f45-1488-4f23-83ab-d63bb5f3cb07</webElementGuid>
+      <webElementGuid>1e333093-7f68-4318-816e-85b0f67cb800</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='b3-b2-b1-DropdownStatus']</value>
-      <webElementGuid>9505611d-b4dd-4f78-b569-dfdb1525f0e4</webElementGuid>
+      <webElementGuid>c45f8b4c-8999-45ea-94b2-46a054f88add</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='b3-b2-b1-DropdownStatus-container']/select</value>
-      <webElementGuid>c242c7cf-4280-47ff-8676-3232c77b06a0</webElementGuid>
+      <webElementGuid>daf325b7-bf98-4030-98d9-13bc88e9fb78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::select[1]</value>
-      <webElementGuid>6401f6ab-5035-47b2-9227-e3ccbb7f0ffa</webElementGuid>
+      <webElementGuid>39ada600-1b92-4ac0-ab54-84f82f37a1e8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::select[1]</value>
-      <webElementGuid>a6fe16f2-addc-4ee2-a257-5cb9504f60f0</webElementGuid>
+      <webElementGuid>edc8b00f-e476-4762-9ce5-34db9743843e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari'])[1]/preceding::select[1]</value>
-      <webElementGuid>35a04b7d-b591-420a-9799-29aceb3ba051</webElementGuid>
+      <webElementGuid>1d481f23-1e51-4a31-b727-8471239de670</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::select[1]</value>
-      <webElementGuid>6239b98d-d09c-4570-9c63-5d93096d3e75</webElementGuid>
+      <webElementGuid>1eb04100-9394-421b-9109-30dc18849f97</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/select</value>
-      <webElementGuid>3c4eef52-5314-4684-ba1c-3d5ff6eb1ffd</webElementGuid>
+      <webElementGuid>4bc6878d-377c-4189-817d-a5b9dcfc9a53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'b3-b2-b1-DropdownStatus' and (text() = 'Select StatusBaruPenugasanDalam ProsesMenunggu PersetujuanDisetujuiDikembalikanTidak Selesai' or . = 'Select StatusBaruPenugasanDalam ProsesMenunggu PersetujuanDisetujuiDikembalikanTidak Selesai')]</value>
-      <webElementGuid>74324d8e-5789-43d4-8bad-726870803922</webElementGuid>
+      <webElementGuid>fac936c8-9f21-4954-957e-75627e668ca4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

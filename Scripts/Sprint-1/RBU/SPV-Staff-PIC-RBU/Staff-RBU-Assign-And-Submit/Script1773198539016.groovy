@@ -52,7 +52,7 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Sub
     '100000')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Action_b3-b4-b8-l3_0-268_0-Input_Tang_26adfb'), 
-    '11-03-2026')
+    '18-03-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Action_b3-b4-b8-l3_0-268_0-b5-Input_Mask'), 
     '100000')
@@ -70,7 +70,7 @@ WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Sub
     '150000')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Lihat Dokumen_b3-b4-b8-l3_0-268_1-Inp_5fb7d0'), 
-    '11-03-2026')
+    '18-03-2022')
 
 WebUI.setText(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/input_Lihat Dokumen_b3-b4-b8-l3_0-268_1-b5-_b43604'), 
     '150000')
@@ -139,6 +139,15 @@ WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submi
 WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/button_Submit'))
+
+WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCashDetail/button_Submit_1'))
+
+WebUI.delay(5)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/select_Pilih OpsiBaruDalam ProsesMenunggu P_427f57'), 
+    '2', true)
+
+WebUI.click(findTestObject('Object Repository/Sprint1/RBU/Staff-Assign-And-Submit/Page_PettyCash/button_Cari'))
 
 WebUI.delay(5)
 
